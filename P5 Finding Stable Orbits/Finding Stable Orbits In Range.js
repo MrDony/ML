@@ -14,6 +14,7 @@ let winners = [];
 let showElectrons=true;
 let showButton;
 
+
 function showPopulation()
 {
   if(showElectrons==false)showElectrons=true;
